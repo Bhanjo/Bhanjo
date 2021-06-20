@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
+
+<h1 align=center>✉Contact✉</h1>
+<a href="aoon1065@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="hanjo1515@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
 
+<br>
 <p align=center href="https://hits.seeyoufarm.com"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBhanjo&count_bg=%23005EB8&title_bg=%237A7A7A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
