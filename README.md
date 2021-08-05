@@ -34,6 +34,3 @@ Here are some ideas to get you started:
 <h1 align=center>✒Comunity✒</h1>
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
-
-<br>
-<p align=center href="https://hits.seeyoufarm.com"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBhanjo&count_bg=%23005EB8&title_bg=%237A7A7A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
