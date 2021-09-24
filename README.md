@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
 
-<h1 align=center>✒Comunity✒</h1>
+<h1 align=center>✒Blog✒</h1>
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
