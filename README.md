@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 <div align=center display="flex">
   
-## <p align=center>💻Tech Stack💻</p>
+### <p align=center>💻Tech Stack💻</p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-## <p align=center>✍Experienced Skiils✍</p>
+### <p align=center>✍Experienced Skiils✍</p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a> -->
 
-## <p align=center>✒Blog✒</p>
+### <p align=center>✒Blog✒</p>
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
