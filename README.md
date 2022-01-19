@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 |Type|Date|Contents|
 |:---:|:---:|:---:|
-|👨‍🎓<br/>Education|2020.03.01 ~ ing|Myongji.Univ Department of Computer science|
+|👨‍🎓<br/>Education|2020.03.01 ~ ing|Transfer Myongji.Univ Department of Computer science|
 |👪<br/>Circles|2021.03.01 ~ 2021.12.31|Likelion 9th member|
 |👪<br/>Circles|2022.01.01 ~ ing|Likelion 10th manager|
 |👩‍💻<br/>External Education|2022.01.17 ~ ing|Samsung division of DX Algorithm Education|
