@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
 
-# 💪 Learn and Apply!
+# 📸 Info
 |Type|Date|Contents|
 |:---:|:---:|:---:|
 |👨‍🎓<br/>Education|2020.03 ~ ing|Transfer to Myongji.univ Department of Computer science|
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanjo&show_icons=true&theme=radical)  
 
-### ✍ Study Blog
+### ✍ Note
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ### 💻 Tech Stack
