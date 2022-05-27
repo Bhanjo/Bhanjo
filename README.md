@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 |👩‍💻<br/>External Education|2022.01 ~ 2022.02|Samsung DX Algorithm Education|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanjo&show_icons=true&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjo1515)](https://solved.ac/hanjo1515/)
 
 ### ✍ Note
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
