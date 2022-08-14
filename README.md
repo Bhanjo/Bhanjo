@@ -1,25 +1,6 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Bhanjo/Bhanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005eb8&height=250&section=header&text=HanjoBae&fontColor=FAFAFA&fontSize=80" />
--->
-
 <div>
 
-# 📸 Info
+# 📸 Info ([More📌](https://literate-web-05f.notion.site/3e61bb9e1a1747e1b492d7485806a495))
 |Type|Date|Contents|
 |:---:|:---:|:---:|
 |👨‍🎓<br/>Education|2020.03 ~ ing|Transfer to Myongji.univ Department of Computer science|
