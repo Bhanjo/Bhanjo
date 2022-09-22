@@ -7,7 +7,7 @@
 |👪<br/>Circles|2021.03 ~ 2021.12|Likelion 9th member|
 |👪<br/>Circles|2022.01 ~ ing|Likelion 10th manager|
 |👨‍🏫<br/>External Education|2022.01 ~ 2022.02|Samsung DX Algorithm Education|
-|👩‍💻<br/>career|2022.09 ~ ing|ECOUNT Inc. Web Developer|
+|👩‍💻<br/>Career|2022.09 ~ ing|ECOUNT Inc. Web Developer|
 
 <div style="display: flex;">
   <img src='https://github-readme-stats.vercel.app/api?username=Bhanjo&show_icons=true&theme=radical' style="width: 420px;"/>
