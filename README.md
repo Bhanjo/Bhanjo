@@ -3,7 +3,7 @@
 # 📸 Info ([More📌](https://literate-web-05f.notion.site/3e61bb9e1a1747e1b492d7485806a495))
 |Type|Date|Contents|
 |:---:|:---:|:---:|
-|👨‍🎓<br/>Education|2020.03 ~ ing|Transfer to Myongji.univ Department of Computer science|
+|👨‍🎓<br/>Education|2020.03 ~ 2023.02|Transfer to Myongji.univ Department of Computer science|
 |👪<br/>Circles|2021.03 ~ 2021.12|Likelion 9th member|
 |👪<br/>Circles|2022.01 ~ ing|Likelion 10th manager|
 |👨‍🏫<br/>External Education|2022.01 ~ 2022.02|Samsung DX Algorithm Education|
