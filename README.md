@@ -1,6 +1,6 @@
 <div>
 
-# 📸 Info ([More📌](https://literate-web-05f.notion.site/3e61bb9e1a1747e1b492d7485806a495))
+# 📸 Info ([Resume📌](https://literate-web-05f.notion.site/00aad3ba528446bb9799824ccdfba057?pvs=4))
 |Type|Date|Contents|
 |:---:|:---:|:---:|
 |👨‍🎓<br/>Education|2020.03 ~ 2023.02|Transfer to Myongji.univ Department of Computer science|
@@ -13,7 +13,7 @@
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjo1515' />
 </div>
     
-### ✍ Note
+### ✍ Blog
 <a href="https://blog.naver.com/hanjo1515"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ### 💻 Tech Stack
