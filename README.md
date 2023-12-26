@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |👨‍🎓<br/>Education|2020.03 ~ 2023.02|Transfer to Myongji.univ Department of Computer science|
 |👨‍🏫<br/>External Education|2022.01 ~ 2022.02|Samsung DX Algorithm Education|
-|👪<br/>Circles|2021.03 ~ ing |Likelion 9th member <br /> 10th, 11th manager|
+|👪<br/>Circles|2021.03 ~ 2023.12|Likelion 9th member <br /> 10th, 11th manager|
 |👩‍💻<br/>Career|2022.09 ~ ing|ECOUNT Inc. 5.0 FrameWork FE Developer|
 
 <div style="display: flex;">
