@@ -10,13 +10,12 @@
 |👩‍💻<br/>Career|2022.09 ~ ing|ECOUNT Inc. 5.0 FrameWork FE Developer|
 
 <div style="display: flex;">
-  <img src='https://github-readme-stats.vercel.app/api?username=Bhanjo&show_icons=true&theme=radical' style="width: 420px;"/>
   <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjo1515' />
 </div>
 
 <hr />
 
-- `2년`차 프론트엔드 개발자입니다.
+- `3년`차 프론트엔드 개발자입니다.
 - `3년`간 웹 프로그래밍 동아리에서 활동했습니다.
   - 웹/서버 개발자, 디자이너, 기획자 커뮤니티에서 함께 소규모 프로젝트 및 주 1회 스터디를 꾸준히 해오고 있습니다.
 - `소통과 이유`를 중요하게 여기는 프론트엔드 개발자입니다.
